@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN stack, dApps and AI**
 
-- 📫 How to reach me **SehrishRamzan@gmail.com**
+- 📫 How to reach me **Sehrishramzan381509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
